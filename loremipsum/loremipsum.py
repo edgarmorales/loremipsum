@@ -19,3 +19,13 @@ def generate_long_text():
            "Morbi non erat et risus pharetra vehicula eu vitae quam. Sed elementum erat vel augue bibendum semper. " \
            "Sed euismod nibh a dignissim fermentum. Vestibulum ut augue vitae dolor tristique sodales. Etiam nec" \
            " ultrices sapien, sit amet ultricies lorem."
+
+
+def generate_bacon_text():
+    """
+    Bacon Ipsum text.
+    """
+    return "Bacon ipsum dolor amet cupim landjaeger capicola t-bone picanha shankle. Drumstick pancetta corned beef, " \
+           "cow tenderloin alcatra beef ribs tail. Brisket ball tip pastrami venison hamburger swine fatback, doner " \
+           "bresaola meatloaf turkey. Chislic buffalo beef spare ribs, kevin short loin brisket ham turkey hamburger " \
+           "sirloin shankle landjaeger pork belly bresaola. Corned beef t-bone cupim biltong beef ribs."
